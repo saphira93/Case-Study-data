@@ -4,6 +4,9 @@
     "DEV": "Valve",
     "PUB": "Valve",
     "RATING": "4.5",
+    "PRICE": "0.0",
+    "QOH": "10",
+    "QOBO": "0",
     "CATEGORY": "Free To Play"
   },
 {
@@ -11,6 +14,9 @@
     "DEV": "Studio Wildcard",
     "PUB": "Studio Wildcard",
     "RATING": "3.5",
+    "PRICE": "21.99",
+    "QOH": "10",
+    "QOBO": "0",
     "TITLE": "Ark: Survival Evolved"
   }
 ]
