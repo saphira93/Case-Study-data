@@ -10,6 +10,50 @@
     "IMG": "/img/dota2.jpg",
     "CATEGORY": "Free To Play"
   },
+  {
+    "TITLE": "Clicker Heroes",
+    "DEV": "Playsaurus",
+    "PUB": "Playsaurus",
+    "RATING": "4.5",
+    "PRICE": "0.0",
+    "QOH": "10",
+    "QOBO": "0",
+    "IMG": "/img/clicker.jpg",
+    "CATEGORY": "Free To Play"
+  },
+  {
+    "TITLE": "Warframe",
+    "DEV": "Digital Extremes",
+    "PUB": "Digital Extremes",
+    "RATING": "4.5",
+    "PRICE": "0.0",
+    "QOH": "10",
+    "QOBO": "0",
+    "IMG": "/img/warframe.jpg",
+    "CATEGORY": "Free To Play"
+  },
+  {
+    "TITLE": "Team Fortress 2",
+    "DEV": "Valve",
+    "PUB": "Valve",
+    "RATING": "5.0",
+    "PRICE": "0.0",
+    "QOH": "10",
+    "QOBO": "0",
+    "IMG": "/img/TF2.jpg",
+    "CATEGORY": "Free To Play"
+  },
+  {
+    "TITLE": "DOTA 2",
+    "DEV": "Smartly Dressed Games",
+    "PUB": "Smartly Dressed Games",
+    "RATING": "4.5",
+    "PRICE": "0.0",
+    "QOH": "10",
+    "QOBO": "0",
+    "IMG": "/img/unturned.jpg",
+    "CATEGORY": "Free To Play"
+  },
 {
     "CATEGORY": "Massively MultiPlayer Online",
     "DEV": "Studio Wildcard",
